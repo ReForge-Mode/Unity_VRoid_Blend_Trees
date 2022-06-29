@@ -1,10 +1,10 @@
 # Unity VRoid Blend Trees Expression
-In this short tutorial, you'll learn how to use Blend Trees to create various levels of expressions and smoothly transition between them. 
+In this very short tutorial, you'll learn how to blend two facial expressions on our VRoid character through the use of Blend Trees in Unity!
 
 Huge credit to these guys who made this possible!
 - UniVRM plugin: https://github.com/vrm-c/UniVRM
 
-<img src="https://github.com/FFaUniHan/Unity_VRoid_VFX_Texture_Swap/blob/main/Demo.gif" width=100% height=100%>
+<img src="https://github.com/FFaUniHan/Unity_VRoid_Blend_Trees/blob/main/Demo.gif" width=100% height=100%>
 
 # Instructions
 Once you download and extract the zip file or clone the project to your Git application, open it in Unity Hub. If you want to follow along the tutorial, use the Before Tutorial folder. But if you just want the final result, use the After Tutorial folder.
@@ -14,4 +14,4 @@ This project uses Unity version 2021.2.3f, earlier versions of Unity might not w
 # Tutorial Video
 If you want to follow along with this tutorial, here is my tutorial video! I make this kind of tutorial every month, so if you like it, be sure to subscribe!
 
-[![How to Change Your Eyes and Clothes in Unity VRoid Studio in 12 Minutes or Less!](https://github.com/FFaUniHan/Unity_VRoid_VFX_Texture_Swap/blob/main/Video.jpg)](https://youtu.be/uEiPli26j4M "How to Change Your Eyes and Clothes in Unity VRoid Studio in 12 Minutes or Less!")
+[![How to Blend Two Expressions Together (Unity VRoid Studio)!](https://github.com/FFaUniHan/Unity_VRoid_Blend_Trees/blob/main/Video.jpg)](https://youtu.be/oqnh1CuKEx0 "How to Blend Two Expressions Together (Unity VRoid Studio)")
